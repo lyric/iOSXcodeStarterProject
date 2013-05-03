@@ -6,6 +6,7 @@
 #import "AnalyticsKitDebugProvider.h"
 #import "AnalyticsKitTestFlightProvider.h"
 #import "MagicalRecord.h"
+#import "SFRestAPI.h"
 
 @implementation AppDelegate
 
